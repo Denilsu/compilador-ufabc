@@ -1,0 +1,7 @@
+leia raio;
+
+pi := 3.14159;
+
+area := pi * (raio * raio);
+
+escreva area;
