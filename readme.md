@@ -113,6 +113,9 @@ O programa irá parar e esperar que você digite um valor para a variável `raio
 314.159000
 ```
 
+## Exemplo de execução no GitHub Workspaces
+![screenshot](workspaces.png)
+
 ## Autor
 
 **DENILSON ARAUJO MARCELINO DA SILVA - RA: 21041115** - denilson.marcelino@aluno.ufabc.edu.br
